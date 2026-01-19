@@ -1,1 +1,0 @@
-<p>author: Izabela Lanuszny</p>
