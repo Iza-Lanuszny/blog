@@ -1,0 +1,25 @@
+@import url("sections/base.css");
+@import url("sections/feebback.css");
+@import url("sections/footer.css");
+@import url("sections/games.css");
+@import url("sections/header.css");
+@import url("sections/memory.css");
+@import url("sections/oczko.css");
+
+
+:root {
+    --primary-color: #a786e4;
+    --sec-color: #e78ecd;
+    --text-color: #2460af;
+
+    --background-color: #58114f;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
